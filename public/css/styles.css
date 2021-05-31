@@ -1,0 +1,152 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 0.5rem;
+  color: #fff;
+  background-color: #000;
+  
+}
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  /* width:120px; */
+  height: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  list-style: none;
+}
+.fa:hover {
+  opacity: 1;
+  list-style: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+
+/* 
+.logo
+{
+  position: relative;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  border-right: 11px solid blue;
+  border-left: 11px solid yellow;
+  border-top: 11px solid red;
+  border-bottom: 11px solid green;
+}
+
+.logo::before
+{
+  content: '';
+  position: absolute;
+  top: -155px;
+  right: -155px;
+  border-top: 80px solid transparent;
+  border-right: 80px solid white;
+  border-bottom: 80px solid transparent;
+  border-left: 80px solid transparent;
+  transform: rotate(90deg);
+
+
+}
+
+
+.logo::after
+{
+
+  content: '';
+  position: absolute;
+  top: 79%;
+  right: -16px;
+  width: 35px;
+  height: 10px;
+  background: blue;
+  transform: translate(-5px,-20px);
+  border-bottom-right-radius:15px ;
+
+
+} */
+
+
+
+
+
+
+
+
+
+ /* Stackoverflow  */
+
+/* .fa-google { */
+  /* background: 
+    linear-gradient(to bottom left,transparent 49%,#fbbc05 50%) 0 25%/48% 40%,
+    linear-gradient(to top    left,transparent 49%,#fbbc05 50%) 0 75%/48% 40%,
+  
+    linear-gradient(-40deg ,transparent 53%,#ea4335 54%),
+    linear-gradient( 45deg ,transparent 46%,#4285f4 48%),
+    #34a853;
+  background-repeat:no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent; */
+/* } */
+/* .btn-social
+{
+   background-color: #dd4b39;
+   height: 40px;
+   position: relative;
+   top: 300px;
+  right: 450px
+  /* color white; */
+
+/* } */ 
+
+/* 
+.link
+{
+  text-decoration: none;
+  background-color: white;
+  padding: 10px ;
+  text-align: center;
+  width: 25%;
+  height: 60px;
+  position: relative;
+  top: 25px;
+  font-size: 1.02rem;
+}
+
+.link
+{
+  color: green;
+}
+.link:visited
+{
+  color:yellow;
+
+}
+.link:hover
+{
+  color: blueviolet;
+  text-decoration: none;
+}
+.link:active
+{
+  color:#4285f4;
+} */
